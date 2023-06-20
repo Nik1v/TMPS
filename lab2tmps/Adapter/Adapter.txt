@@ -1,0 +1,8 @@
+În acest exemplu, clasa FahrenheitTemperature reprezintă clasa existentă, iar interfața ITemperature 
+reprezintă interfața dorită. Clasa FahrenheitToCelsiusAdapter este clasa adaptorului care utilizează 
+clasa existentă pentru a implementa interfața dorită. Adapterul poate fi utilizat pentru a convertește 
+temperaturi din Fahrenheit în Celsius, fără a fi necesar să modificăm clasa existentă.
+
+Problema pe care o rezolvă sablonul Adapter este aceea de a permite două componente cu interfețe 
+incompatibile să colaboreze. Prin intermediul adaptorului, putem să ne conectăm la componente care altfel 
+nu ar putea să lucreze împreună, fără a fi necesar să modificăm codul componentelor existente.
