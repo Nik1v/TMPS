@@ -1,1 +1,8 @@
+Pentru a ilustra cum functioneaza sablonul decorator, putem crea o fereastra initiala si apoi sa decoram 
+aceasta fereastra cu un decoratoe de chenar si un decoratoe de bara de derulare astfel:
 
+Rezolvand astfel problemele cum ar fi adaugarea de comportament la nivel de obiect fara a afecta alte 
+obiecte din acelasi tip si oferind flexibilitate in adaugarea sau eliminarea comportamentului in timpul 
+executiei. In plus, poate fi folosit pentru a evita crearea unui numar mare de subclase care sa 
+implementeze variatii ale aceluiasi obiect, astfel incat aceste variatii pot fi implementate prin 
+decorarea obiectului de baza cu unul sau mai multe decoratori.
