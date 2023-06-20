@@ -1,0 +1,8 @@
+În acest exemplu, avem interfața IEmployee, care este implementată de clasele Employee și Manager. 
+Clasa Manager poate avea subordonați (alți IEmployee), care pot fi adăugați și eliminați din lista de 
+subordonați a managerului. Astfel, putem crea ierarhii complexe de angajați și manageri.
+
+Sablonul Composite este util în situațiile în care trebuie să manipulăm o structură ierarhică de obiecte 
+și să lucrăm cu acestea ca și cum ar fi obiecte individuale. De exemplu, într-un sistem de fișiere, un 
+director poate conține alte directoare și fișiere, iar sablonul Composite ne-ar permite să lucrăm cu 
+această structură complexă ca și cum ar fi un fișier sau un director simplu.
