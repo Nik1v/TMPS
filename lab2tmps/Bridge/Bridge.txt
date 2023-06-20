@@ -1,0 +1,3 @@
+Sablonul Bridge este util atunci când se dorește să se desprindă o abstracție de implementarea sa, astfel 
+încât cele două să poată fi modificate independent. În cazul nostru, se dorește separarea formei de 
+desenare a acesteia.
