@@ -1,0 +1,23 @@
+Sablonul Proxy poate rezolva mai multe probleme într-un sistem ATM, printre care:
+
+Securitatea: Proxy-ul poate fi utilizat pentru a se asigura că numai utilizatorii autorizați au acces la 
+anumite funcții ale sistemului ATM. Prin intermediul proxy-ului, pot fi implementate diverse politici de 
+autentificare și autorizare a utilizatorilor, precum parolă, autentificare cu factori multipli sau 
+recunoaștere facială.
+
+Performanță: Sistemul ATM poate fi încărcat cu o cantitate mare de cereri, care pot duce la o scădere a 
+performanței sistemului. Utilizarea unui proxy poate ajuta la reducerea acestei probleme, deoarece proxy-ul 
+poate fi utilizat pentru a gestiona cererile și pentru a elimina sarcinile inutile sau redundante.
+
+Controlul accesului la resurse: Prin intermediul proxy-ului, se poate controla accesul la resurse, cum ar 
+fi banii din conturile utilizatorilor, sau poate limita utilizarea anumitor funcții ale sistemului ATM. 
+Aceasta poate preveni utilizarea abuzivă sau frauduloasă a sistemului ATM de către utilizatori rău 
+intenționați.
+
+Îmbunătățirea experienței utilizatorului: Proxy-ul poate fi utilizat pentru a oferi o experiență mai bună 
+utilizatorilor. De exemplu, proxy-ul poate fi utilizat pentru a oferi o interfață grafică mai prietenoasă, 
+pentru a traduce mesajele de eroare într-un limbaj clar sau pentru a oferi instrucțiuni suplimentare 
+utilizatorilor care întâmpină probleme în utilizarea sistemului ATM.
+
+În general, sablonul Proxy poate fi util în îmbunătățirea securității, performanței, controlului accesului 
+la resurse și experienței utilizatorului într-un sistem ATM.
